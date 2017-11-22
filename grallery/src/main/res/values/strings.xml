@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LGrallaryPick</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="camera_pop_camera">相机拍摄</string>
+    <string name="camera_pop_album">从相册选取</string>
+    <string name="camera_pop_normal">使用默认</string>
+    <string name="camera_pop_cancel">取消</string>
+
+</resources>
